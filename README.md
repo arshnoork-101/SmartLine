@@ -52,7 +52,9 @@ The simulation will mimic real-world factory workflows, automating product assem
 
 .
 ├── src
+
 │   ├── CustomerOrder.cpp / .h
+
 │   ├── LineManager.cpp / .h
 │   ├── Station.cpp / .h
 │   ├── Utilities.cpp / .h
