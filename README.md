@@ -1,10 +1,10 @@
-# 🌟 SmartLine
+# 🏭 SmartLine
 
-## 📊 Project Overview
+## 📊 Overview
 
 The **SmartLine** is a C++ application designed to simulate a factory production environment. The system manages multiple workstations along an assembly line, where each workstation processes customer orders based on the availability of items. This project showcases real-world factory automation principles, such as inventory management, order processing, and work-in-progress management, all while adhering to object-oriented programming (OOP) principles.
 
-## 🎯 Project Objective
+## 🎯 Objective
 
 The goal of this project is to build a modular system that:
 1. Simulates the processing of customer orders across a series of assembly line workstations. 🛠️
